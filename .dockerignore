@@ -1,0 +1,8 @@
+.env
+ssl/
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+__pycache__
+*.pyc
